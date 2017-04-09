@@ -10,7 +10,10 @@ $ cf push
 Expected:
 
 * visit reported URL
-* expect HTTP basic auth
+* observe HTTP basic auth prompt
+* enter `user` and `pass`
+* observe "you can see me"
+
 
 Actual:
 
