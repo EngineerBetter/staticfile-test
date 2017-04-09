@@ -1,0 +1,5 @@
+---
+buildpack: staticfile_buildpack
+instances: 1
+memory: 256M
+name: staticfile-test
